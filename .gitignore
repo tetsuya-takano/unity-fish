@@ -3,3 +3,5 @@ app/app/Temp/
 programing/app/Library/metadata/00/00000000000000003000000000000000.info
 programing/app/Library/
 *.sln
+programing/app/Temp/
+*.csproj
